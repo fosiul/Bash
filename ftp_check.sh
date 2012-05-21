@@ -2,7 +2,7 @@
  
 #Version 1.1
 #######################################
-#Nagios scrept to check ftp server##
+#Nagios script to check ftp server##
 #Commands : wget --quiet --spider --tries=1 -P /tmp ftp://user:password@ftp.ftp-server.co.uk 
 #Status check for nagios script
  
