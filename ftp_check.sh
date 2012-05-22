@@ -48,7 +48,7 @@ fi
 					echo "ftp server $FTP_ADDR is offline"
 					exit $STATE_CRITICAL
 			else
-				echo "ftp server $FTP_ADDR is online "
+				echo "ftp server $FTP_ADDR is online"
 				exit $STATE_OK
 		fi
 
