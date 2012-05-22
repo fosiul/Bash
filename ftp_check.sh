@@ -29,7 +29,7 @@ WGET_DIR=$4   # Define a directory where "wget" will dump files.
 
 SUCCESS=0  # 
 
-#Find out if user has provided 3 parameters .
+#Find out if user has provided 4 parameters .
 
 
 if [ $# -lt "$MINPARAMS" ]
